@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27205.2004
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "DCEmulator", "DCEmulator\DCEmulator.fsproj", "{71FC31BA-7AE4-4654-BC94-05046DC661D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71FC31BA-7AE4-4654-BC94-05046DC661D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71FC31BA-7AE4-4654-BC94-05046DC661D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71FC31BA-7AE4-4654-BC94-05046DC661D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71FC31BA-7AE4-4654-BC94-05046DC661D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04D6F157-FCB8-444B-9060-FE6628470ED0}
+	EndGlobalSection
+EndGlobal
