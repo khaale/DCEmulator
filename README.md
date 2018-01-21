@@ -1,2 +1,2 @@
 # DCEmulator
-Emulation of achieving consensus in distributed systems, written on F# and Akkling.
+Playground project for F#, AkkaNET and Akkling - emulation of achieving consensus in distributed systems.
